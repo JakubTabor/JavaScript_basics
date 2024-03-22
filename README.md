@@ -6,3 +6,4 @@
 
 # Now i gonna create couple buttons for my future project
 * There will be add button, which increases quantity, button which show current quantity
+* And button which add multiple quantity at the end there will be reset
