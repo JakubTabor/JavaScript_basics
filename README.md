@@ -5,3 +5,4 @@
 * We can run the instructions one after another dividing them with semicolons
 
 # Now i gonna create couple buttons for my future project
+* There will be add button, which increases quantity, button which show current quantity
