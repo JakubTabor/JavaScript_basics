@@ -10,3 +10,4 @@
 * To make our button clickable we add property onclick, it run JavaScript when we click on button
 
 # To make our button interactive we type `${}` and inside variable name 
+* To change quantity we need inside add to cart button type in onclick property the variable name and ++, then the text which display
