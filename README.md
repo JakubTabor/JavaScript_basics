@@ -1,4 +1,5 @@
 # For now all content you can see in console, to do these You need to right click and choose inspect, then go to console and there You can see content when You click on the buttons
+# [Buttons](https://jakubtabor.github.io/JavaScript_basics/)
 
 # In these language we give instructions to the computer and computer follow the instructions 
 * We can use the consol to give commands on any websites
