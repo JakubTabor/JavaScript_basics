@@ -16,3 +16,4 @@
 * To change quantity we need inside add to cart button type in onclick property the variable name and ++, then the text which display
 * We can also create variable typing (const) and these type of variable can't changed its value later
 * And another method is (var), these is the older method of creating the variables that can be changed
+* But there are some issues with it and instead we use (let) 
