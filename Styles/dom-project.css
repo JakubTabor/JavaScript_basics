@@ -1,0 +1,20 @@
+body{
+  font-family: Roboto, Arial;
+}
+
+.subscribe-button{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 50px;
+  margin-bottom: 30px;
+  font-size: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.is-subscribed{
+  background-color: rgb(240, 240, 240);
+  color: black;
+  
+}
