@@ -18,3 +18,5 @@
 * And another method is (var), these is the older method of creating the variables that can be changed
 * But there are some issues with it and instead we use (let) 
 * To check the type of value that is inside a variable we can type console.log(typeof variable)
+
+# [Document object model tehniques](https://github.com/JakubTabor/Game_rock_paper_scisors_JavaScript/blob/rock-paper-scissors/Description/DOM)
