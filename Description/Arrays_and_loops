@@ -4,3 +4,5 @@
 # Next we can put while loop, it will keep running (make iterations) while the condition is true
 * And it create scope, so variable that we create between the brackets only exist inside
 * We can also use for loop which takes shorter form and we for loop through all array
+
+# The we use accumulator pattern, it accumulate the result, in accumulate variable
