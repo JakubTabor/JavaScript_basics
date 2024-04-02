@@ -1,2 +1,4 @@
 # Arrays represtent list of values
 * We can type push() to add value at the end of the array and splice() remove value from an array
+
+# Next we can put while loop, it will keep running (make iterations) while the condition is true
