@@ -17,3 +17,4 @@
 # And next i gonna create do date feature, it will allow me to set a date for a task
 * First i make <input> element with date type
 * Our todoList is gonna be not array of strings, but an object with name and dueDate
+* We take name and dueDate from todoObject, which is our list of indexes and now insert name and dueData
