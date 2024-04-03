@@ -15,3 +15,4 @@
 * Next i do delete button clickable and remove todo from the list using .splice() and pass the index
 
 # And next i gonna create do date feature, it will allow me to set a date for a task
+* First i make <input> element with date type
