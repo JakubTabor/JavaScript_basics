@@ -6,3 +6,4 @@
 * We can also use for loop which takes shorter form and we for loop through all array
 
 # The we use accumulator pattern, it accumulate the result, in accumulate variable
+* We first create variable to store result and we loop through the array and update the result
