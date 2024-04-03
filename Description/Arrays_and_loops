@@ -9,3 +9,4 @@
 * We first create variable to store result and we loop through the array and update the result
 
 # We want to take html that we created using loop and put it into the <div> element
+* Everytime we add todo to the list we are gonna display the list again
