@@ -12,3 +12,4 @@
 * Everytime we add todo to the list we are gonna display the list again
 
 # Next i gonna add delete button, i create it inside renderTodoList, in paragraph
+* Next i do delete button clickable and remove todo from the list using .splice() and pass the index
