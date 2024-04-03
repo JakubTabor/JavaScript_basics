@@ -7,3 +7,5 @@
 
 # The we use accumulator pattern, it accumulate the result, in accumulate variable
 * We first create variable to store result and we loop through the array and update the result
+
+# We want to take html that we created using loop and put it into the <div> element
