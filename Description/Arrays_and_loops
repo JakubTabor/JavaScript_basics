@@ -18,3 +18,4 @@
 * First i make <input> element with date type
 * Our todoList is gonna be not array of strings, but an object with name and dueDate
 * We take name and dueDate from todoObject, which is our list of indexes and now insert name and dueData
+* The shortcut const { name } = todoObject, take name property out of the object and puts it variable called name
