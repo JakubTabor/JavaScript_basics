@@ -4,6 +4,7 @@
     <title>Dom project</title>
     <link rel="stylesheet" href="Styles/dom-project.css">
     <link rel="stylesheet" href="Styles/cart-quantity.css">
+    <link rel="stylesheet", href="Styles/todo-list.css">
   </head>
   <body>
 
@@ -30,17 +31,18 @@
 
     <a>Todo List</a>
     
-    <input placeholder="Todo name" class="js-name-input">
+    <div class="todo-input-grid">
+      <input placeholder="Todo name" class="js-name-input name-input">
 
-    <input type="date"
-    class="js-due-date-input">
-    
-    <button onclick="
-      addTodo();
-    ">Add</button>
+      <input type="date"
+      class="js-due-date-input due-date-input">
+      
+      <button onclick="
+        addTodo();
+      "class="add-todo-button">Add</button>
+    </div>
 
-    <div class="js-todo-list">
-
+    <div class="js-todo-list todo-grid">
     </div>
 
     <script src="Script/dom-project.js"></script>
